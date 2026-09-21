@@ -1,0 +1,18 @@
+D001,2026-09-20 08:15:00,200,Device started successfully
+D002,2026-09-20 08:30:00,404,Sensor not found
+D003,2026-09-20 09:00:00,200,Device started successfully
+D001,2026-09-20 09:15:00,500,Internal device error
+D004,2026-09-20 09:30:00,201,Device created
+D002,2026-09-20 10:00:00,404,Sensor not found
+D005,2026-09-20 10:15:00,200,Device started successfully
+D003,2026-09-20 10:45:00,500,Connection failed
+D001,2026-09-20 11:00:00,200,Device operating normally
+D006,2026-09-20 11:30:00,201,Device created
+D004,2026-09-20 12:00:00,200,Device operating normally
+D005,2026-09-20 12:30:00,404,Sensor not found
+D007,2026-09-20 13:00:00,200,Device started successfully
+D008,2026-09-20 13:30:00,500,Internal device error
+D009,2026-09-20 14:00:00,200,Device operating normally
+D010,2026-09-20 14:30:00,ABC,Invalid status code
+D011,2026-09-20,200
+D012,2026-09-20 15:30:00,200,Device operating normally
